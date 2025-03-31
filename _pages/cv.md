@@ -47,12 +47,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Areas
+  * Computer Science
+  * Evolutionary Algorithms
+  * Machine Learning
+  * Spatial Data Science (GIS)
+  * Statistical and Bayesian modelling
+* Programming Languages:- Python, R, SQL
+* Frameworks, Cloud, and Tools
+  * TensorFlow, PyTorch, and ONNX.
+  * AWS, Databricks
+  * Tableau, QGIS (MySQL, PostGIS)
+* Version Control:- GitHub, Linux
+* Soft Skills
+  * Team Collaboration
+  * Communication
+  * Presentation Skills
+  * LaTeX
+  * MS Oﬃce
 
 Publications
 ======
