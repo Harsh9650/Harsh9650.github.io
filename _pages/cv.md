@@ -17,24 +17,33 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: 
-  * Supervisor: The Users
+* March 2021 - Present: PhD Researcher, Teaching Assistant, Lab Demonstrator, and Registration Coordinator
+  * Maynooth University
+  * Duties includes:
+    *  Lead tutorials and graded assignments for modules with class strength up to 200 students.
+    *  Modules included Introduction to Programming, Programming Languages and Compilers, Data Structures and Algorithms, and Spatial Databases.
+    *  Facilitated first-year student registration, verification processes, and issuance of student ID cards.
+    *  Managed module enrollments, student records, and provided administrative support to ensure a seamless onboarding experience.
+  * Supervisors: Dr. Peter Mooney (peter.mooney@mu.ie) and Dr. Edgar Galvan (edgar.galvan@mu.ie)
 
 * Oct 2023 - Apr 2024: Machine Learning Research Intern
   * Advance Micro Devices (AMD), Dublin, Ireland.
-  * Duties included: 1) Developed neural network performance projection models tailored for FPGA style architectures.
-                     2) Engineered performance estimation models leveraging reconfigurable logic.
-                     3) Developed an ONNX model quantisation tool for enhanced model optimisation and deployment flexibility.
-                     4) Quantised Architecture Search (CNNs), focusing on optimizing inference speed.
-                     5) Finding, reporting and fixing bugs.
-  * Supervisor: Dr. Yaman Umuroglu
+  * Duties included:
+    * Developed neural network performance projection models tailored for FPGA style architectures.
+    * Engineered performance estimation models leveraging reconfigurable logic.
+    * Developed an ONNX model quantisation tool for enhanced model optimisation and deployment flexibility.
+    * Quantised Architecture Search (CNNs), focusing on optimizing inference speed.
+    * Finding, reporting and fixing bugs.
+  * Supervisor: Dr. Yaman Umuroglu (yaman.umuroglu@amd.com)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2018 - Nov 2018: CSA
+  * Amazon, India
+  * Duties included: 
+    * Database modification with synchronized customer data.
+    * Collaborated with the sales team to develop efficient methods for handling issues with large revenue customers.
+    * Performed account analysis to track suspicious activities.
+    * Worked on special projects to offer customized support for new products.
+    * Monitored customer satisfaction levels by frequent feedback analysis.
   
 Skills
 ======
