@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, Maynooth University, Ireland, 2025 (expected).
+* MSc in Data Science and Analytics, Maynooth University, Ireland, 2019-2020.
+* BTech in Instrumentation and Control Engineering, Bharati Vidyapeeth's College of Engineering, New Delhi, India, 2014-2018.
 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
-  * Duties includes: Updates and improvements to template
+  * Duties includes: 
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2023 - Apr 2024: Machine Learning Research Intern
+  * Advance Micro Devices (AMD), Dublin, Ireland.
+  * Duties included: 1) Developed neural network performance projection models tailored for FPGA style architectures.
+                     2) Engineered performance estimation models leveraging reconfigurable logic.
+                     3) Developed an ONNX model quantisation tool for enhanced model optimisation and deployment flexibility.
+                     4) Quantised Architecture Search (CNNs), focusing on optimizing inference speed.
+                     5) Finding, reporting and fixing bugs.
+  * Supervisor: Dr. Yaman Umuroglu
 
 * Summer 2015: Research Assistant
   * GitHub University
