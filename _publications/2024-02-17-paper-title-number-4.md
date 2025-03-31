@@ -7,7 +7,7 @@ excerpt: 'GeoGraphNetworks is a comprehensive benchmark data repository for accu
 enable users to generate detailed, spatially accurate network representations within multilingual programming environments, thereby facilitating research and application across diverse domains.'
 date: 2025-04-26
 venue: 'Environment and Planning B: Urban Analytics and City Science'
-dataseturl: 'https://figshare.com/articles/dataset/GeoGraphNetworks_Great_Britain_s_Web_of_Roads_Rivers/27284859/3'
+paperurl: 'https://figshare.com/articles/dataset/GeoGraphNetworks_Great_Britain_s_Web_of_Roads_Rivers/27284859/3'
 citation: 'In Review.'
 ---
 
