@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, Maynooth University, Ireland, 2025 (expected).
-* MSc in Data Science and Analytics, Maynooth University, Ireland, 2019-2020.
-* BTech in Instrumentation and Control Engineering, Bharati Vidyapeeth's College of Engineering, New Delhi, India, 2014-2018.
+* PhD in Computer Science, Maynooth University, Ireland, 2021 - 2025 (expected).
+* MSc in Data Science and Analytics, Maynooth University, Ireland, 2019 - 2020.
+* BTech in Instrumentation and Control Engineering, Bharati Vidyapeeth's College of Engineering, New Delhi, India, 2014 - 2018.
 
 Work experience
 ======
