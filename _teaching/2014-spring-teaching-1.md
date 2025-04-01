@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "CS621: Spatial Databases"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Eolas, Computer Science Department, Maynooth University"
+date: 2021-09-26
+location: "Maynooth, Ireland"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
