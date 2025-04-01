@@ -1,12 +1,11 @@
 ---
- permalink: /
- title: "About"
- excerpt: "About me"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
- ---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hi, I’m **Harish Sharma, a PhD researcher in Computer Science at Maynooth University, Ireland**. My research focuses on Evolutionary Algorithms, Machine Learning, and Spatial Data Science (GIS), with applications in optimising complex systems. I hold an MSc in Data Science and Analytics and a BTech in Instrumentation and Control Engineering.
 
