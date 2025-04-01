@@ -1,13 +1,14 @@
 ---
  permalink: /
- title: "Harish Sharma"
+ title: "About"
+ excerpt: "About me"
  author_profile: true
  redirect_from: 
    - /about/
    - /about.html
  ---
 
-Hi, I’m a **PhD researcher in Computer Science at Maynooth University, Ireland**. My research focuses on Evolutionary Algorithms, Machine Learning, and Spatial Data Science (GIS), with applications in optimising complex systems. I hold an MSc in Data Science and Analytics and a BTech in Instrumentation and Control Engineering.
+Hi, I’m **Harish Sharma, a PhD researcher in Computer Science at Maynooth University, Ireland**. My research focuses on Evolutionary Algorithms, Machine Learning, and Spatial Data Science (GIS), with applications in optimising complex systems. I hold an MSc in Data Science and Analytics and a BTech in Instrumentation and Control Engineering.
 
 I have experience in both academia and industry, having worked as a Machine Learning Research Intern at AMD, where I developed neural network performance projection models for FPGA architectures. Additionally, I have experience as a Teaching Assistant and Lab Demonstrator, leading tutorials for programming, algorithms, and spatial databases.
 
