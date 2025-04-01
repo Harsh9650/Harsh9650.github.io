@@ -1,5 +1,5 @@
 ---
-title: "CS621: Spatial Databases"
+title: "CS621C: SPATIAL DATABASES"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
