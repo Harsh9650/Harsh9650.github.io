@@ -1,5 +1,5 @@
 ---
 title: "Roxi"
-excerpt: "My first dog 1<br/><img src='/images/1.JPG'>"
+excerpt: My first ever pet<br/><img src="/images/1.JPG" width="500" height="300">
 collection: portfolio
 ---
