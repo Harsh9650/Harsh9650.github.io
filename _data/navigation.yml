@@ -16,10 +16,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Interests"
-    url: /portfolio/
-        
+          
   - title: "Projects"
     url: /year-archive/
     
@@ -31,3 +28,6 @@ main:
     
   - title: "Updates"
     url: /markdown/
+
+  - title: "Interests"
+    url: /portfolio/
