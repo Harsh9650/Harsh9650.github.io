@@ -7,5 +7,6 @@ excerpt: 'Applications such as vehicle navigation require access to multiple div
 date: 2025-04-26
 venue: 'Information Sciences, Elsevier'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0020025525006279'
-citation: 'Sharma, H., Galván, E. and Mooney, P., 2024. Multipath Island-Based Genetic Algorithm for the K-Most Diverse Near-Shortest Paths.'
+citation: 'H. Sharma, E. Galván and P. Mooney, MultiPath Island-Based Genetic Algorithm for the K-Most Diverse Near-Shortest Paths,
+Information Sciences, 122495.'
 ---
